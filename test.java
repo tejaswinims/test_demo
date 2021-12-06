@@ -1,4 +1,4 @@
-classbuilt{
+class test{
 
 publicstatic void main(String[] args){
 
